@@ -22,7 +22,7 @@ Explore a collection of **innovative projects** ranging from **AI-powered tools*
 | 💬 **Many Chat Clone**                | Full-stack (MERN)            | [Watch Tutorial](https://www.youtube.com/watch?v=iaxekGfUzvk)                                     | [GitHub Repo](https://github.com/webprodigies/slide-webprodigies)                                  |
 | 🗣️ **Voice-based Search Engine**      | Python, Speech Recognition   | [Watch Tutorial](https://www.youtube.com/watch?v=NpPBBKXraP0)                                     | [GitHub Repo](https://github.com/Dhruv58/Jarvis-AI)                                                |
 | 📡 **Real-time Chat App**             | Socket Programming           | [Watch Tutorial](https://www.youtube.com/watch?v=PGPGcKBpAk8)                                     | [Learn More](https://www.codewithantonio.com/)                                                     |
-| 🛒 **E-commerce Website**             | Full-stack + Recommendation  | [Watch Tutorial](https://www.youtube.com/watch?v=6omuUOZcWL0)                                     | [GitHub Repo](https://github.com/webprodigies/plura-production/tree/main)                          |
+| 🛒 **Website SAAS Builder**             | Full-stack  | [Watch Tutorial](https://www.youtube.com/watch?v=6omuUOZcWL0)                                     | [GitHub Repo](https://github.com/webprodigies/plura-production/tree/main)                          |
 
 ---
 
@@ -70,12 +70,12 @@ Learn **socket programming** by building a real-time chat application. Dive into
 
 ---
 
-## 🛒 E-commerce Website with Recommendation Engine
+## 🛒 Fullstack SAAS  Website Builder.
 
 📂 **Description**:  
-Build a full-stack **e-commerce platform** with a **recommendation engine** to provide personalized shopping experiences.
+Build a full-stack *SAAS Website Builder** with a **Next-js** 
 
-- 🛠️ **Tech Stack**: Full-stack (MERN) + Recommendation System  
+- 🛠️ **Tech Stack**: Full-stack (Next-js ) 
 - 📺 **Tutorial**: [Watch on YouTube](https://www.youtube.com/watch?v=6omuUOZcWL0)  
 - 🔗 **Code Repository**: [GitHub Link](https://github.com/webprodigies/plura-production/tree/main)
 
