@@ -228,7 +228,5 @@ A place to collaborate and share lecture notes on all topics related to machine 
 </table>
 
 
-
-If you have any questions, open an issue or reach out to me on [Twitter](https://twitter.com/omarsar0).
-
-Join our [Discord](https://discord.gg/FzNtjEK9dg). 
+Handwritten Notes: https://drive.google.com/file/d/1wuezT2XgJgJVljw6up5lyCOHM4DACAhQ/view
+Roadmap :- https://roadmap.sh/r/machine-learning-and-artificial-intelligence-using-python
