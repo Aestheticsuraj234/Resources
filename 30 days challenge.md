@@ -1,4 +1,4 @@
-### Best recruter Resources email IDS: https://drive.google.com/drive/folders/1hJlxWGMr1UfV9UH84d_HjFP7InTMpPII
+### Best recruter Resources email IDS: https://drive.google.com/file/d/1w3UkElmKgrGPnSCr4ZzMG7Ni6sQs0hZe/view?usp=drive_link
 
 ### 30-Day Challenge: Next.js, HTML, CSS, JS, and 50 DSA Questions  
 
